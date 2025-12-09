@@ -38,12 +38,6 @@ that feel almost unreal. Half builder, half dreamer — fully driven to turn the
 
 ---
 
-## 🏆 Achievements  
-- 🥇 **1st Place – State Level Smart Hackathon 2025**  
-- 🎨 **1st Prize – Inter-Branch Painting Competition (2024)**  
-- 🏅 **1st Prize – DEVFUSION Web Development Workshop (2023)**  
-
----
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Little-Rohit-Choudhary&layout=compact&theme=react)  
